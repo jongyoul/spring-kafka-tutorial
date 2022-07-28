@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/kafka
+Content-Type: application/json
+
+{
+  "message": "test-message"
+}
+
+###
